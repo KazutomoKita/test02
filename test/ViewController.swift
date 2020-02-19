@@ -14,6 +14,10 @@ class ViewController: UIViewController {
     func log() {
         print("テスト")
     }
+    
+    func log2() {
+        print("ああああ")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
