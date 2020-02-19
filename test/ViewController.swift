@@ -9,6 +9,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    func log() {
+        print("テスト")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
